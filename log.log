@@ -1,0 +1,7 @@
+2021-10-19 12:00:16 uvicorn.error INFO     Started server process [14600]
+2021-10-19 12:00:16 uvicorn.error INFO     Waiting for application startup.
+2021-10-19 12:00:16 uvicorn.error INFO     Application startup complete.
+2021-10-19 12:00:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): iam.cloud.ibm.com:443
+2021-10-19 12:00:20 urllib3.connectionpool DEBUG    https://iam.cloud.ibm.com:443 "POST /identity/token HTTP/1.1" 200 1049
+2021-10-19 12:00:20 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): us-south.ml.cloud.ibm.com:443
+2021-10-19 12:00:21 urllib3.connectionpool DEBUG    https://us-south.ml.cloud.ibm.com:443 "POST /ml/v4/deployments/083217b1-aa8c-4a81-bc12-4e089f897ca1/predictions?version=2021-10-07&version=2021-10-07 HTTP/1.1" 200 None
