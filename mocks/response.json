@@ -1,0 +1,18 @@
+{
+  "predictions": [
+	{
+	  "fields": [
+		"NUI",
+		"SCORE_RIESGO",
+		"CALIFICACION"
+	  ],
+	  "values": [
+		[
+		  6,
+		  39.5,
+		  "Bajo"
+		]
+	  ]
+	}
+  ]
+}
