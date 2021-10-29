@@ -1,0 +1,10 @@
+{   
+ 	"DATABASE": "bludb", 
+ 	"HOSTNAME" : "fbd88901-ebdb-4a4f-a32e-9822b9fb237b.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud",
+ 	"PORT" : "32731" ,
+ 	"PROTOCOL" : "TCPIP",
+ 	"UID" : "kfj27317",
+ 	"PWD": "sZeMHl555bMcs7PZ",
+ 	"CURRENTSCHEMA" : "PZC27427",	
+ 	"SECURITY" : "SSL" 
+ }
